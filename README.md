@@ -1,4 +1,4 @@
-# stock-timeseries-toolkit
+# Stock_Timeseries_Toolkit
 
 A clean, portfolio-friendly toolkit for exploring stock-like time series using **Pandas** and **Matplotlib**. 
 No course text or proprietary files. Runs standalone with included synthetic sample data.
